@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 st.title("My AI Chatbot 🤖")
 st.write("Ask me anything!")
